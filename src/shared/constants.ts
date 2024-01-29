@@ -1,2 +1,2 @@
-export const appDirectoryName = 'NoteMark';
+export const appDirectoryName = 'markdown-note';
 export const fileEncoding = 'utf8';
