@@ -19,6 +19,9 @@
       "@shared/*": [
         "src/shared/*"
       ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
       "@/*": [
         "src/renderer/src/*"
       ],
