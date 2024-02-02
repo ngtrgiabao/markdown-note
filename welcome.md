@@ -1,6 +1,6 @@
 ## Welcome to Markdown Note 👋🏻
 
-Markdown Note is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
+15/02/2023 is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
 
 You can create your first note by clicking on the top-left icon on the sidebar, or delete one by clicking on top right icon.
 
@@ -52,3 +52,5 @@ Code block snippets using the following syntax *\`\`\`js\`\`\`* are ***not suppo
 ### Links
 
 Links are ***not supported*** yet!
+
+Hope you enjoy 🥰!
