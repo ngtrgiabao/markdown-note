@@ -54,3 +54,5 @@ Code block snippets using the following syntax *\`\`\`js\`\`\`* are ***not suppo
 Links are ***not supported*** yet!
 
 Hope you enjoy 🥰!
+
+Author: Yanji
